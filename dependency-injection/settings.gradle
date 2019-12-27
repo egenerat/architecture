@@ -1,0 +1,4 @@
+rootProject.name = 'dependency-injection'
+include 'application'
+include 'interface'
+include 'implementation'
